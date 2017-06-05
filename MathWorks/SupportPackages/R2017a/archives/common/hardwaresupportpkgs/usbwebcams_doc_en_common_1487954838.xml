@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/usbwebcams_doc_en</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/usbwebcams_doc_en_common_1487954838.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/usbwebcams_doc_en_common</componentName>
+    <componentVersion>1487954838</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>1100</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2017a</releaseFamily>
+    <size>3113245</size>
+    <type />
+    <uncompressedBytes>5888701</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/matlab/webcam</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/matlab/webcam_win64_1487954886.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/matlab/webcam_win64</componentName>
+    <componentVersion>1487954886</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2017a</releaseFamily>
+    <size>188655</size>
+    <type />
+    <uncompressedBytes>522240</uncompressedBytes>
+  </component>
+</componentData>
+
